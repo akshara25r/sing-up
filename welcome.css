@@ -1,0 +1,15 @@
+#username{
+    background-color: rgb(32, 195, 178);
+    height: 150px;
+    width:350px;
+    border-radius: 10px;
+    margin-left:550px ;
+    margin-top: 200px;
+    padding:50px;
+    border-width:600px;
+    font-weight: bolder;
+}
+
+body{
+    background-color: blanchedalmond;
+}
